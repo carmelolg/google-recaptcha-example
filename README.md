@@ -57,5 +57,3 @@ Before running the application, you need to set up your Google reCAPTCHA secret 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README with additional information or sections as needed!
